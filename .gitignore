@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln.DotSettings
+*.user
+*.userosscache
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# ReSharper
+.idea/
+*.sln.iml
+
+# Local environment
+local.settings.json
+appsettings.local.json
+
+# OS
+.DS_Store
+Thumbs.db

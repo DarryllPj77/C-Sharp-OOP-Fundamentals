@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroConstructors", "IntroC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroPrivateConstructors", "IntroPrivateConstructors\IntroPrivateConstructors.csproj", "{042E668B-F37C-4361-BA94-1563E72DE5B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Net47", "Test.Net47\Test.Net47.csproj", "{C60C095D-A942-439D-8F08-74CCC706204C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{042E668B-F37C-4361-BA94-1563E72DE5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{042E668B-F37C-4361-BA94-1563E72DE5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{042E668B-F37C-4361-BA94-1563E72DE5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60C095D-A942-439D-8F08-74CCC706204C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60C095D-A942-439D-8F08-74CCC706204C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60C095D-A942-439D-8F08-74CCC706204C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60C095D-A942-439D-8F08-74CCC706204C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace IntroConstructors
+﻿namespace IntroConstructors
 {
-    internal class Students
+    internal class Student
     {
         // Auto-implemented properties
-        public string name { get; set; } // default value null
+        public string Name { get; set; } // default value null
         public int Age { get; set; } // default value = 0
         public double Grade { get; set; }  // default value = 0
+
+        // Parameterized constructor
+        public Student(string name, int age, double grade)
+        {
+            Name = name;
+            Age = age;
+            Grade = grade;
+        }
 
         // Default Constructors
         // Parameterized Constructors

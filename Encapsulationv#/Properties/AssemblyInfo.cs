@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Encapsulationv3")]
+[assembly: AssemblyTitle("Encapsulationv#")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Encapsulationv3")]
+[assembly: AssemblyProduct("Encapsulationv#")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("443a9946-fee4-4b42-909e-f33024862df8")]
+[assembly: Guid("edcd6118-67a1-4362-bb52-fbb5aaddc384")]
 
 // Version information for an assembly consists of the following four values:
 //
